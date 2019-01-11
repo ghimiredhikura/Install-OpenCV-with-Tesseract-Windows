@@ -1,6 +1,6 @@
 # Install OpenCV with Tesseract on Windows
 
-This guide witll take you through the easy to install steps for installing OpenCV with Tesseract on Windows.  
+This guide will take you through the easy installation steps for OpenCV with Tesseract on Windows.  
 
 **OS:                [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)**  
 **Installation Tool: [GitBash](https://git-scm.com/download/win)**  
