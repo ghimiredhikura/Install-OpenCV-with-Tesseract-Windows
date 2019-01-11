@@ -44,7 +44,7 @@ You must download [png lib](https://sourceforge.net/projects/libpng/files/) and 
 ./installTesseract.sh
 ```
 
-# Visual Studio 15 2017 Example: 
+# Visual Studio 15 2017 Example (Not yet completed!): 
 
 Open `OCVTessExample` project using visual studio 2017. 
 In Bin folder I have kept eng.tessdata file inside folder tessdata which was downloaded form https://github.com/tesseract-ocr/tessdata. You can also get any language pack that you are interested in. Just download and keep inside the tessdata. You may need to change c++ source accordingly. Compile the project. 
@@ -54,6 +54,10 @@ In Bin folder I have kept eng.tessdata file inside folder tessdata which was dow
 move to OCVTessExample/Bin>
 double click run.sh 
 ```
+
+## Issue
+[https://github.com/ghimiredhikura/Install-OpenCV-with-Tesseract-Windows/issues/1](https://github.com/ghimiredhikura/Install-OpenCV-with-Tesseract-Windows/issues/1)  
+TODO
 
 # References
 1. [OpenCV (master) installation by using git-bash](https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html#tutorial_windows_gitbash_build)
