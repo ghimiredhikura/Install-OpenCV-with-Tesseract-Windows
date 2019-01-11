@@ -26,7 +26,7 @@ cd Install-OpenCV-with-Tesseract-Windows
 ```
 ## Step 2: Install OpenCV
 ```ruby
-./installOCV.sh
+[./installOCV.sh](installOCV.sh)
 ```
 ## Step 3: Install llpng and zlib
 You must download [png lib](https://sourceforge.net/projects/libpng/files/) and [zlib](https://sourceforge.net/projects/libpng/files/zlib/1.2.11/). Uncompress lpng in folder `lpng` and zlib in folder `zlib`. lpng and zlib must be in same folder as `opencv` and `opencv_contrib`. 
