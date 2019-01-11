@@ -1,0 +1,10 @@
+﻿  OCVTessExample.cpp
+c:\install-opencv-with-tesseract-windows\install\leptonica\include\leptonica\pix.h(241): warning C4305: 'initializing': truncation from 'double' to 'l_float32'
+c:\install-opencv-with-tesseract-windows\install\leptonica\include\leptonica\pix.h(243): warning C4305: 'initializing': truncation from 'double' to 'l_float32'
+f:\github\install-opencv-with-tesseract-windows\ocvtessexample\ocvtessexample\ocvtessexample.cpp(38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 284 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OCVTessExample.vcxproj -> F:\GitHub\Install-OpenCV-with-Tesseract-Windows\OCVTessExample\OCVTessExample\..\Bin\OCVTessExample.exe
