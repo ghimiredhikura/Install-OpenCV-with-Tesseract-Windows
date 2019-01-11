@@ -2,6 +2,7 @@
 
 This guide witll take you through the easy to install steps for installing OpenCV with Tesseract on Windows.  
 
+**OS: Windows 10**  
 **Installation Tool: GitBash**  
 **Visual Studio: [Visual Studio 15 2017 Win64](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)**  
 **OpenCV: [OpenCV 4.0.1](https://github.com/opencv/opencv/releases/tag/4.0.1)**  
