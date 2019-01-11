@@ -1,6 +1,6 @@
 # Install OpenCV with Tesseract on Windows
 
-This guide will take you through the very easy installation steps for OpenCV with Tesseract on Windows.  
+**This guide will take you through the very easy installation steps for OpenCV with Tesseract on Windows.**  
 
 | **Tools**            |  **URL with version**                              | 
 |----------------------|-------------------------------------------| 
@@ -13,16 +13,6 @@ This guide will take you through the very easy installation steps for OpenCV wit
 | Zlib                 | [zlib1211](https://sourceforge.net/projects/libpng/files/zlib/1.2.11/) | 
 | Leptonica            | [Leptonica version 1.74.4](https://github.com/DanBloomberg/leptonica/releases/tag/1.74.4) | 
 | Tesseract            | [Tesseract 4.0.0 Release](https://github.com/tesseract-ocr/tesseract/releases/tag/4.0.0) | 
-|----------------------|-------------------------------------------| 
-
-**OS:                [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)**  
-**Installation Tool: [GitBash](https://git-scm.com/download/win)**  
-**Visual Studio:     [Visual Studio 15 2017 Win64](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)**  
-**OpenCV:            [OpenCV 4.0.1](https://github.com/opencv/opencv/releases/tag/4.0.1)**  
-**Libpng:            [libpng1636](https://sourceforge.net/projects/libpng/files/)**  
-**Zlib:              [zlib1211](https://sourceforge.net/projects/libpng/files/zlib/1.2.11/)**  
-**Leptonica:         [Leptonica version 1.74.4](https://github.com/DanBloomberg/leptonica/releases/tag/1.74.4)**  
-**Tesseract:         [Tesseract 4.0.0 Release](https://github.com/tesseract-ocr/tesseract/releases/tag/4.0.0)**  
 
 ## Step 1: Clone this Repo
 Install [Git Bash for windows](https://git-scm.com/download/win) if you haven't yet.  
